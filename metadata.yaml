@@ -1,5 +1,8 @@
 _repo: Kurjalan-Maria_74394
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Rosegger, Peter
@@ -14,6 +17,8 @@ creator:
     - https://en.wikipedia.org/wiki/Peter_Rosegger
     - https://de.wikipedia.org/wiki/Peter_Rosegger
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74394#Kurjalan-Maria
 gutenberg_issued: '2024-09-09'
 gutenberg_type: Text
 identifiers:
